@@ -1,5 +1,4 @@
 # ProgrammingDosReis
----
 #### Installing and Running Java on Ubuntu
 ---
 1. Update ubuntu packages
